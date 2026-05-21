@@ -1,2 +1,1 @@
 # Bitburner Scripts
-## DETAILS TBA
